@@ -1,0 +1,24 @@
+{
+    "id": 127577285,
+    "name": "E T E R N I T Y",
+    "author": "Kyrintu",
+    "creators": ["Kyrintu"],
+    "verifier": "Kyrintu",
+    "verification": "https://youtu.be/0-k-Vgp8NPc?si=8_rL8iQNSaLR3iiD",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
