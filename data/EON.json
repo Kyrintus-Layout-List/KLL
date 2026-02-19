@@ -12,13 +12,13 @@
             "user": "empty",
             "link": "also empty",
             "percent": 100,
-            "hz": ?
+            "hz": 60
         },
         {
             "user": "empty",
             "link": "also empty",
             "percent": 100,
-            "hz": ?
+            "hz": 60
         }
     ]
 }
