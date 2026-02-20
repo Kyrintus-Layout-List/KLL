@@ -1,0 +1,24 @@
+{
+    "id": 115845008,
+    "name": "Execution Wave",
+    "author": "mastersensi",
+    "creators": ["mastersensi"],
+    "verifier": "mastersensi",
+    "verification": "https://www.youtube.com/watch?v=r-fOjcK6xjc",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
