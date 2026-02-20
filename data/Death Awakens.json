@@ -1,0 +1,24 @@
+{
+    "id": 111692511,
+    "name": "Death Awakens",
+    "author": "Kyrintu",
+    "creators": ["Kyrintu"],
+    "verifier": "Kyrintu",
+    "verification": "https://www.youtube.com/watch?v=T7effTyjD8Q",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
