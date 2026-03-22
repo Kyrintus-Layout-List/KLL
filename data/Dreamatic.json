@@ -1,0 +1,24 @@
+{
+    "id": 135847399,
+    "name": "Dreamatic",
+    "author": "Kyrintu",
+    "creators": ["Kyrintu"],
+    "verifier": "Kyrintu",
+    "verification": "https://www.youtube.com/watch?v=MlUSrFkvc2U",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
