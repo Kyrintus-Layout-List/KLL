@@ -1,0 +1,24 @@
+{
+    "id": 141680830,
+    "name": "pukeko",
+    "author": "Kyrintu",
+    "creators": ["Kyrintu"],
+    "verifier": "Kyrintu",
+    "verification": "https://youtu.be/-VgMDSjur7U",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
