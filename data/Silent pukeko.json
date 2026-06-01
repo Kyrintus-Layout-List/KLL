@@ -1,0 +1,24 @@
+{
+    "id": 141682141,
+    "name": "Silent pukeko",
+    "author": "Kyrintu",
+    "creators": ["Kyrintu"],
+    "verifier": "Kyrintu",
+    "verification": "https://youtu.be/bh1qVVz7uHk",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
