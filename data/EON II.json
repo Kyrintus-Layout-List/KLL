@@ -9,13 +9,13 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "",
+            "user": "empty",
             "link": "also empty",
             "percent": 100,
             "hz": 60
         },
         {
-            "user": "",
+            "user": "empty",
             "link": "also empty",
             "percent": 100,
             "hz": 60
