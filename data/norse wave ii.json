@@ -1,0 +1,24 @@
+{
+    "id": 142613980,
+    "name": "norse wave ii",
+    "author": "tbfmeta",
+    "creators": ["tbfmeta"],
+    "verifier": "tbfmeta",
+    "verification": "https://drive.google.com/file/d/1KLLPipoZjMfUN3bt9MtJHLT9qfV67j4b/view?usp=sharing",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Kyrintu",
+            "link": "https://drive.google.com/file/d/1ltrWeQhT9aIq27uEZsxiSiIAbS6-rdYd/view?usp=sharing",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
