@@ -1,0 +1,24 @@
+{
+    "id": 142710159,
+    "name": "my big cook",
+    "author": "Kyrintu",
+    "creators": ["Kyrintu"],
+    "verifier": "Kyrintu",
+    "verification": "https://youtu.be/uOSNVqloysk",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
