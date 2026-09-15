@@ -1,0 +1,24 @@
+{
+    "id": 148874878,
+    "name": "tunnel of artemis",
+    "author": "irismeoww",
+    "creators": ["irismeoww"],
+    "verifier": "irismeoww",
+    "verification": "https://youtu.be/_p_nduv1xgg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "empty",
+            "link": "also empty",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
