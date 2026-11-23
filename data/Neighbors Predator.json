@@ -10,13 +10,13 @@
     "records": [
         {
             "user": "empty",
-            "link": "empty",
+            "link": "also empty",
             "percent": 100,
             "hz": 60
         },
         {
             "user": "empty",
-            "link": "empty",
+            "link": "also empty",
             "percent": 100,
             "hz": 60
         }
